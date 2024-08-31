@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\AssetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\repositories\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\repositories\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\models\\assetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\models\\assetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\models\\notimplementedactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\models\\notimplementedactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\controllers\\hardwarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\controllers\\hardwarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\controllers\\softwarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\controllers\\softwarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|d:\\entityframeworkcore\\assetmanagement\\assetmanagement\\migrations\\20240805085157_changeofpricedatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0771C-6A8B-4F8A-BE3D-72515848D770}|AssetManagement\\AssetManagement.csproj|solutionrelative:assetmanagement\\migrations\\20240805085157_changeofpricedatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "AssetManagement\\appsettings.json",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\appsettings.json",
+              "RelativeToolTip": "AssetManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T10:33:04.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "AssetManagement\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:49:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Program.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Program.cs",
+              "RelativeToolTip": "AssetManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:22:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "AssetManagement\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:51:51.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Repositories\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "AssetManagement\\Repositories\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:45:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeToolTip": "AssetManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:45:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssetDbContext.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Models\\AssetDbContext.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Models\\AssetDbContext.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Models\\AssetDbContext.cs",
+              "RelativeToolTip": "AssetManagement\\Models\\AssetDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:49:58.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "AssetManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:52:10.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Models\\Book.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Models\\Book.cs",
+              "RelativeToolTip": "AssetManagement\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:49:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotImplementedActionFilter.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Models\\NotImplementedActionFilter.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Models\\NotImplementedActionFilter.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Models\\NotImplementedActionFilter.cs",
+              "RelativeToolTip": "AssetManagement\\Models\\NotImplementedActionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:54:31.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HardwaresController.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Controllers\\HardwaresController.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Controllers\\HardwaresController.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Controllers\\HardwaresController.cs",
+              "RelativeToolTip": "AssetManagement\\Controllers\\HardwaresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:01:40.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SoftwaresController.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Controllers\\SoftwaresController.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Controllers\\SoftwaresController.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Controllers\\SoftwaresController.cs",
+              "RelativeToolTip": "AssetManagement\\Controllers\\SoftwaresController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:02:01.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240805085157_ChangeOfPriceDatatype.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Migrations\\20240805085157_ChangeOfPriceDatatype.cs",
+              "RelativeDocumentMoniker": "AssetManagement\\Migrations\\20240805085157_ChangeOfPriceDatatype.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\AssetManagement\\AssetManagement\\Migrations\\20240805085157_ChangeOfPriceDatatype.cs",
+              "RelativeToolTip": "AssetManagement\\Migrations\\20240805085157_ChangeOfPriceDatatype.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:51:57.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
